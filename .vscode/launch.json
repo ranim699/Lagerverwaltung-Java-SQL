@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Inventory Management (HomeWindow)",
+      "request": "launch",
+      "mainClass": "gui.HomeWindow",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}

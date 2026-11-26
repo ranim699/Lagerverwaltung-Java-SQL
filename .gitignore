@@ -1,0 +1,11 @@
+desktop.ini
+
+/bin/
+sources.txt
+node_modules/
+.env
+__pycache__/
+.venv/
+venv/
+*.log
+.DS_Store

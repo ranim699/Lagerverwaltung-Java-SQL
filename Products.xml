@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productList>
+	<product name="Bounty"><priceExclVAT>8.0</priceExclVAT><quantity>2</quantity><catalog>Sweets</catalog></product>
+	<product name="Raider"><priceExclVAT>5.5</priceExclVAT><quantity>7</quantity><catalog>Sweets</catalog></product>
+	<product name="PC"><priceExclVAT>453.2</priceExclVAT><quantity>10</quantity><catalog>Technology</catalog></product>
+</productList>
